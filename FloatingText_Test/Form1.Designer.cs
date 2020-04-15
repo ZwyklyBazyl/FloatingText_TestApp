@@ -39,9 +39,9 @@
             // 
             // movingText1
             // 
-            this.movingText1.Location = new System.Drawing.Point(12, 141);
+            this.movingText1.Location = new System.Drawing.Point(4, 178);
             this.movingText1.Name = "movingText1";
-            this.movingText1.Size = new System.Drawing.Size(776, 150);
+            this.movingText1.Size = new System.Drawing.Size(784, 150);
             this.movingText1.TabIndex = 0;
             // 
             // Form1
