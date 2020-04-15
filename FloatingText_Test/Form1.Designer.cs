@@ -28,12 +28,18 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.movingText1 = new FloatingText.MovingText();
             this.SuspendLayout();
             // 
+            // timer1
+            // 
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // movingText1
             // 
-            this.movingText1.Location = new System.Drawing.Point(12, 125);
+            this.movingText1.Location = new System.Drawing.Point(12, 141);
             this.movingText1.Name = "movingText1";
             this.movingText1.Size = new System.Drawing.Size(776, 150);
             this.movingText1.TabIndex = 0;
@@ -51,7 +57,7 @@
         }
 
         #endregion
-
+        private System.Windows.Forms.Timer timer1;
         private FloatingText.MovingText movingText1;
     }
 }

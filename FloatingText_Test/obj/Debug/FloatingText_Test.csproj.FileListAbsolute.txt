@@ -11,3 +11,15 @@ C:\Users\pc\source\repos\FloatingText_Test\FloatingText_Test\obj\Debug\FloatingT
 C:\Users\pc\source\repos\FloatingText_Test\FloatingText_Test\obj\Debug\FloatingText_Test.csproj.CopyComplete
 C:\Users\pc\source\repos\FloatingText_Test\FloatingText_Test\obj\Debug\FloatingText_Test.exe
 C:\Users\pc\source\repos\FloatingText_Test\FloatingText_Test\obj\Debug\FloatingText_Test.pdb
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\bin\Debug\FloatingText_Test.exe.config
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\bin\Debug\FloatingText_Test.exe
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\bin\Debug\FloatingText_Test.pdb
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\bin\Debug\FloatingText.pdb
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.Form1.resources
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.Properties.Resources.resources
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.csproj.CopyComplete
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.exe
+C:\Users\pc\source\repos\Text\FloatingText_TestApplication\FloatingText_Test\obj\Debug\FloatingText_Test.pdb
