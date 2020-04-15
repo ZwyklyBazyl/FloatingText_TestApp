@@ -28,21 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.movingText1 = new FloatingText.MovingText();
             this.SuspendLayout();
             // 
-            // timer1
-            // 
-            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
             // movingText1
             // 
-            this.movingText1.Location = new System.Drawing.Point(4, 178);
+            this.movingText1.Location = new System.Drawing.Point(12, 173);
             this.movingText1.Name = "movingText1";
-            this.movingText1.Size = new System.Drawing.Size(784, 150);
+            this.movingText1.Size = new System.Drawing.Size(776, 150);
             this.movingText1.TabIndex = 0;
+            this.movingText1.Load += new System.EventHandler(this.movingText1_Load);
             // 
             // Form1
             // 
@@ -52,12 +47,13 @@
             this.Controls.Add(this.movingText1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
-        private System.Windows.Forms.Timer timer1;
+
         private FloatingText.MovingText movingText1;
     }
 }
